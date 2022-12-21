@@ -1,4 +1,2 @@
 # tests
 tests formulated during 42 school
-
-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
